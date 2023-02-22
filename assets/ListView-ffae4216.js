@@ -1,0 +1,1 @@
+import{u as t}from"./NoImage-f6516561.js";import{U as a}from"./UserList-ab5ee01f.js";import{d as n,c as o,b as r,u as i,o as m}from"./index-c5dc05cf.js";const c={class:"list-page"},_=n({__name:"ListView",props:{name:null},setup(e){const s=t();return(l,u)=>(m(),o("div",c,[r(a,{list:i(s).getListByName(e.name),name:e.name},null,8,["list","name"])]))}});export{_ as default};

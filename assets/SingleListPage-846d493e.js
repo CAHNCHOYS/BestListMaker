@@ -1,0 +1,1 @@
+import{u as t}from"./NoImage-245369dd.js";import{U as a}from"./UserList-34fa91c2.js";import{d as n,o,c as r,e as i,u as m}from"./index-69248cb1.js";const c={class:"list-page"},_=n({__name:"SingleListPage",props:{name:null},setup(e){const s=t();return(l,u)=>(o(),r("div",c,[i(a,{list:m(s).getListByName(e.name),name:e.name},null,8,["list","name"])]))}});export{_ as default};
